@@ -13,3 +13,4 @@ An inventory script for Windows servers that provides comprehensive information,
 This script was developed to inventory Windows Servers and the virtual machines running on Hyper-V. In the fast-paced environments where I work—which are often mission-critical—it is all too easy to forget to document the creation of new virtual machines. To address this, I created a PowerShell script that generates reports in HTML and PDF formats, while also exporting the collected data to a CSV file, which can then be used to build an asset inventory.
 
 This script works perfectly for my needs, and you are welcome to adapt it to suit your own requirements—provided that you retain the original source credits.
+<img width="1184" height="771" alt="image" src="https://github.com/user-attachments/assets/a4e448b4-d1f9-46dd-8fa5-eff8cf28b1c1" />
