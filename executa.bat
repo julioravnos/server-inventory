@@ -1,0 +1,1 @@
+Powershell.exe -STA -ExecutionPolicy Bypass -File .\HyperV-Inventario-GUI.ps1
